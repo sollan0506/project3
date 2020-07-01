@@ -1,0 +1,166 @@
+
+[ 프로젝트 3 텍스트 소스  ]
+
+
+===============================================
+
+[ HEADER 영역 ]
+
+  * HOME   PAGES    PORTFOLIO    BLOG    SHOP
+
+
+[ INTRO 영역 ]
+
+  A Wonderful Serenity
+  Has Taken Possession Of My
+  Enitre Soul
+
+  READ MORE
+
+
+[ ABOUT 영역 ]
+
+  * ABOUT
+  Far far away, behind the word mountains, far from the coun-tries Vokalia and Consonantia
+
+
+  * Font Icon 
+  fa-code-fork
+  fa-cloud
+  fa-paper-plane-o 
+  fa-sliders 
+  fa-heart-o
+  fa-briefcase
+
+  1. IMPRESSIVE RESULTS
+  2. STORAGE SPACE
+  3. MASS MAILINGS
+  4. FLEXIBLE CONFIGS
+  5. LOVELY DESIGN 
+  6. LARGE PORTFOLIO
+
+  * Decoration Text
+  When, shile the lovely themes with vapour arond me. and the meridian sun strikes the
+  upper surface.
+
+
+
+[ What I DO ]
+
+  1. Responsive  WEB DEVELOPMENT
+  2. Colorful  PRINT DESIGN
+  3. Brilliant  VEDIO PRODUCTION
+
+
+  * Decoration Text
+  When, shile the lovely themes with vapour arond me. and the meridian sun strikes the
+  upper surface of the impentrable foliage  of my trees, stray gleams steal into the inner
+  sancuary. 
+
+  * Button Text -  READ MORE
+
+
+[ PORTFOLIO 영역 ]
+
+  * PORTFOLIO
+
+  1. Web Planning
+  2. Design Works
+  3. Development Progress
+
+  * Decoration Text
+  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor 
+  aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, 
+  nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit 
+  amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a 
+  ornare odio. Sed non  mauris vitae erat 
+
+
+[ Features 영역 ]
+
+  * 폰트 아이콘
+  fa-code-fork
+  fa-podcast
+  fa-bullseye
+  fa-bolt
+
+  
+  1. Well Coded
+  2. Reusable Elements
+  2. MESS MARKING
+  4. CAMPAING CONCEPT
+
+  * Decoration Text
+  A small river named Duren flows their place
+
+
+[ CONACT 영역 ]
+
+  * CONTACT
+
+  * Form
+    Name
+    E-mail
+    Subject
+    Message
+
+  * Button Text - SEND MESSAGE
+
+
+[ FOOTER 영역  ]
+ 
+ 1. f-top 영역
+
+   1) f-box1
+
+   * LOGO
+
+   * 폰트아이콘
+      fa-map-marker  256 Abbey Road, london, UK
+      fa-phone       +123 725 586 425
+      fa-envelope-o  contact@abc.com  
+
+   * SNS 그룹
+      fa-facebook
+      fa-twitter 
+      fa-google-plus
+      fa-pinterest
+      fa-dribbble
+      fa-behance
+
+
+   2) f-box2
+
+     LATEST TWEETS
+
+     Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. 
+     Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.
+
+     Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, 
+     pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+
+     Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu 
+     vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, 
+     accumsan porttitor, facilisis luctus, metus.
+
+
+   3) f-box3
+
+     USEFUL LINKS
+
+     Aliquam tincidunt mauris eu risus.
+     Vestibulum auctor dapibus neque.
+     Nunc dignissim risus id metus.
+     Cras ornare tristique elit.
+     Vivamus vestibulum ntulla nec ante.
+     Praesent placerat risus quis eros.
+     Vestibulum commodo felis quis tortor.
+     Fusce pellentesque suscipit nibh.
+     
+
+
+
+ 2. f-bottom 영역
+
+  * 하단 카피라이트 
+  Copyright 2020 (C) ABC.COM  All Rights Reserved.
