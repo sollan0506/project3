@@ -47,9 +47,9 @@
 
 [ What I DO ]
 
-  1. Responsive  WEB DEVELOPMENT
-  2. Colorful  PRINT DESIGN
-  3. Brilliant  VEDIO PRODUCTION
+  1. Responsive WEB DEVELOPMENT
+  2. Colorful PRINT DESIGN
+  3. Brilliant VEDIO PRODUCTION
 
 
   * Decoration Text
